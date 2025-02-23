@@ -1,6 +1,6 @@
 # FitnessTrackingApp
 
-#Overview
+Overview
 ---
 The Pedometer App is a lightweight and efficient application designed to track your steps and provide insights into your daily physical activity. It uses the device's built-in step sensor to ensure minimal battery consumption while accurately counting your steps.
 
